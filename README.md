@@ -15,3 +15,13 @@ for key in my_dict:
     print("printing key", key)
     print("printing value", my_dict.get(key))
 ```
+
+# the not operator
+
+```
+if not False:
+    print("this will print")
+
+if not True:
+    print("this will not print")
+```
